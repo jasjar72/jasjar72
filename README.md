@@ -1,4 +1,4 @@
-### Hi Jodus 👋
+### Hi 👋
 
 <!--
 **jasjar72/jasjar72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
